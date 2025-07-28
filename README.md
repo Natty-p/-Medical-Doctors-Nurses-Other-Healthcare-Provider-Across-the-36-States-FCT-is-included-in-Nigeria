@@ -1,5 +1,5 @@
 # 📘 Healthcare Workforce-to-Population Analysis Report
-The Distribution of Medical Doctors, Nurses and other Healthcare woekers Across the States in Nigeria.
+The Distribution of Medical Doctors, Nurses and other Healthcare workers Across the States in Nigeria.
 
 
 <img width="1864" height="388" alt="healthcare workers on duty   over used" src="https://github.com/user-attachments/assets/b88ffba3-f886-4d89-b2aa-a9071e6a70cc" />
@@ -19,7 +19,7 @@ The dataset includes the following fields:
 •	Pharmacists
 •	Laboratory Scientists/Lab Technicians
 •	Community Health Workers (CHWs)
-•	Doctor to Population Ratio (if available or calculated)
+•	Doctor to Population Ratio (Available & calculated)
 
 ## 📌 Data Source Assumptions:
 •	Data collected from Federal ministry of health & Social Welfare on “ State of Health of the Nation 2024 Report.
