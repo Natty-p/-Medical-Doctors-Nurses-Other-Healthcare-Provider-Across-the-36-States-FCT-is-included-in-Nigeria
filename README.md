@@ -90,7 +90,8 @@ If the above findings is correct, then the comparison should stand, if not it sh
 <img width="1866" height="443" alt="we love our job" src="https://github.com/user-attachments/assets/19a1147a-cbc6-4d2e-9429-d3ad13a88b84" />
 
 
-##🧾 Conclusion
+
+## 🧾 Conclusion
 The healthcare workforce in most regions falls short of the WHO recommended ratios, especially for doctors and pharmacists. This gap threatens the ability to deliver equitable and quality care. Urgent interventions are required to improve workforce density, especially in rural and underserved areas. Utilizing WHO standards for ongoing workforce assessment ensures that planning aligns with international best practices and supports better health outcomes.
 
 ## We Are Dedicated to Saving Lifes, Save Ours Too
