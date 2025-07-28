@@ -36,7 +36,7 @@ The dataset includes the following fields:
 ## 🧮 Note on WHO-Based Ratio Calculations
 The standard WHO approach to assessing adequacy of healthcare workforce is:
 "A region is considered adequately staffed if it has at least 1 doctor and 3 nurses per 1,000 population, or 1 doctor and 1 nurses per 1,000 population.
-If the above findings is correct, then the comparison should stand, if not it should be disregard. 
+If the above findings is correct, then the comparison should stand, if not it should be disregarded. 
 
 ## 📈 Data Analysis
 
